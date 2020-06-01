@@ -1,0 +1,90 @@
+commit 06fd5f039600595f86752dcb75341ee69397fb8e
+Author: Raviteja <ravi.teja@sanofi.com>
+Date:   Fri Dec 27 20:27:59 2019 +0530
+
+    i am comitting
+
+commit 3af3e0758346492dc936168dce56246970127f65
+Author: Nirup <nirup.ch@gmail.com>
+Date:   Fri Dec 27 10:17:52 2019 -0500
+
+    commit
+
+commit 5f2d9f3f4deea97b13cce8bf9f7aa33188391556
+Author: Krishna Kanth <krishnakanthreddy.bhimavarapu@gmail.com>
+Date:   Fri Dec 27 20:33:43 2019 +0530
+
+     first commit
+
+commit 32c96ed7195d38aad3d21e90376b1af49f0e143a
+Author: DevOps Training <devopstraining2015@gmail.com>
+Date:   Fri Dec 27 20:46:41 2019 +0530
+
+    devops2 file
+
+commit 9477ed0127ae64ebe1c74ae1dbd2c356404431ab
+Author: dhinakar <dhinakar6854@gmail.com>
+Date:   Fri Dec 27 20:31:07 2019 +0530
+
+    sample by dinakar
+
+commit c49ad66979494f7394f50158166c68826ad83330
+Author: devops <devops@gmail.com>
+Date:   Fri Dec 27 20:46:28 2019 +0530
+
+    second commit
+
+commit 1f74d27227c1e4f19203b710e2a3870c8623d0bd
+Author: Chinna Reddy <chinna2225@gmail.com>
+Date:   Fri Dec 27 10:02:58 2019 -0500
+
+    Commit by Chinna
+
+commit a358fbd96942418854c3b769a49823af1c921051
+Merge: 87d2df8 b898a90
+Author: DevOps Training <devopstraining2015@gmail.com>
+Date:   Fri Dec 27 20:45:45 2019 +0530
+
+    Merge branch 'master' of https://github.com/polarapu/batch50
+
+commit 87d2df86ffebbd622477ae5d6a53c2738797086c
+Author: DevOps Training <devopstraining2015@gmail.com>
+Date:   Fri Dec 27 20:43:37 2019 +0530
+
+    devops1 file
+
+commit b898a9078d58413f8972100e5a4ccbc6ea18c48e
+Author: devops <devops@gmail.com>
+Date:   Fri Dec 27 20:43:00 2019 +0530
+
+    sunny commit
+
+commit b983d8fcb957cdf08324dd80aad8c8a50fd9f093
+Author: Guru <yaapaku@gmail.com>
+Date:   Fri Dec 27 07:57:50 2019 -0700
+
+    Sample file by Kumar
+
+commit ea0296258838425fad43672c2855993bb8a8a36c
+Author: DevOps Training <devopstraining2015@gmail.com>
+Date:   Fri Dec 27 20:23:34 2019 +0530
+
+    git commands
+
+commit be3018b3e9e4d71f68c78a5fdc3e24576d1c6464
+Author: DevOps Training <devopstraining2015@gmail.com>
+Date:   Fri Dec 27 20:21:43 2019 +0530
+
+    devops file
+
+commit 9a0edba591e2e7fa3f7d0a9d144f4df38a55bd2b
+Author: DevOps Training <devopstraining2015@gmail.com>
+Date:   Fri Dec 27 20:20:37 2019 +0530
+
+    first commit
+
+commit 6b029426ac765dee8410cfad7c2a0a1337f30591
+Author: polarapu <polarapup@gmail.com>
+Date:   Fri Dec 27 20:13:15 2019 +0530
+
+    Initial commit

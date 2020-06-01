@@ -1,0 +1,70 @@
+    1  ls 
+    2  cd vagrant/
+    3  ls
+    4  ls
+    5  vi Vagrantfile 
+    6  vagrant reload 
+    7  vagrant ssh
+    8  vi Vagrantfile 
+    9  ls
+   10  cd ..
+   11  ls
+   12  mkdir vagrant2
+   13  vagrant init
+   14  vi Vagrant
+   15  ls
+   16  cd vagrant2/
+   17  ls
+   18  vagrant init
+   19  vi Vagrantfile 
+   20  vagrant up
+   21  vagrant ssh
+   22  cd ../vagrant
+   23  ls
+   24  vagrant ssh
+   25  ls
+   26  cd vagrant2/
+   27  vagrant ssh
+   28  cd vagrant
+   29  ls
+   30  vagrant ssh
+   31  cd vagrant2/
+   32  vagrant ssh
+   33  ansible -- version
+   34  ansible --version
+   35  pwd
+   36  cd vagrant2
+   37  ls
+   38  vagrant up
+   39  vagrant ssh
+   40  LS
+   41  git init
+   42  ls
+   43  ls -ah
+   44  git config --global user.name"guru"
+   45  git config --global user.email "yaapaku@gmail.com"
+   46  ls -ah
+   47  git cofig --list
+   48  git config --list
+   49  git config --global user.name "Guru"
+   50  git config --list
+   51  touch file1
+   52  git status
+   53  git add file1
+   54  git status
+   55  git commit-m "guru"file1
+   56  ls
+   57  git status
+   58  cd ..
+   59  ls
+   60  cd GIT/
+   61  ls
+   62  git add file1
+   63  git status
+   64  git commit -m "MyCommit" file1 
+   65  git status
+   66  git log
+   67  git show
+   68  git show dfc72a3532e29f8290ac828fe4ccb9bcf7c0ae96
+   69  history
+   70  history>>gitcommands1.txt
