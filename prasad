@@ -6,13 +6,15 @@ Am Good .Thanks
 
 ls
 jsdhjfujdgf:wq!
-AddankiddddddddddddddddddddddddddddddddddddddddddddddddddddddAAAAAAAAAAAAAAAAAAAAA
 hello
 touch file1
 git status
 git add file1
 git status
 git commit -m "label" file1
+=======
+
+>>>>>>> d4def10... modified 2 prasad
 git status
 git status
 git add file2
